@@ -1,4 +1,4 @@
 GeekHunter
 ==========
 ----------
-Интернет-портал, который позволяет связать между собой сотрудников, ищущих работу и работодателей, которые ищут подходящих сотрудников по средствам размещения и подбора вакансий и резюме.
+Portal that allows to connect employees looking for a job and employers who are looking for employees to post and select vacancies and resumes.
